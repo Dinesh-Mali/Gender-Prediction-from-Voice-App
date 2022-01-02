@@ -9,4 +9,4 @@ In This project, before even starting coding, we will understand about data as i
 final target.
 
 # Models
-We will be using SVC and RandomForestClassifier model and train those models using the voice dataset.
+We will be using SVC and RandomForestClassifier model and train those models using the voice dataset. 
